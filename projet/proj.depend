@@ -1,0 +1,787 @@
+# depslib dependency file v1.0
+1648938734 source:c:\users\ramim\onedrive\bureau\kol chay\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SMSPRIM.h"
+	"LSTSMSPRIM.h"
+	"ELTMSGPRIM.h"
+
+1648763843 c:\users\ramim\onedrive\bureau\kol chay\proj\smsprim.h
+	"SMSSDD.h"
+
+1648738726 c:\users\ramim\onedrive\bureau\kol chay\proj\smssdd.h
+	"ELTSMS.h"
+
+1648738725 c:\users\ramim\onedrive\bureau\kol chay\proj\eltsms.h
+
+1648931199 source:c:\users\ramim\onedrive\bureau\kol chay\proj\eltsms.c
+	"SMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"LSTSMSSDD.h"
+
+1648930205 source:c:\users\ramim\onedrive\bureau\kol chay\proj\lstsms.c
+	"LSTSMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"SMSPRIM.h"
+	<string.h>
+
+1648744209 c:\users\ramim\onedrive\bureau\kol chay\proj\lstsmsprim.h
+	"LSTSMSSDD.h"
+
+1648758824 c:\users\ramim\onedrive\bureau\kol chay\proj\lstsmssdd.h
+	"LSTSMS.h"
+
+1648758824 c:\users\ramim\onedrive\bureau\kol chay\proj\lstsms.h
+	"SMSPRIM.h"
+
+1648937734 source:c:\users\ramim\onedrive\bureau\kol chay\proj\eltmsg.c
+	"ELTMSGPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1648934424 c:\users\ramim\onedrive\bureau\kol chay\proj\eltmsgprim.h
+	"MSGSDD.h"
+
+1648934424 c:\users\ramim\onedrive\bureau\kol chay\proj\msgsdd.h
+	"ELTMSG.h"
+
+1648934424 c:\users\ramim\onedrive\bureau\kol chay\proj\eltmsg.h
+	"LSTSMSPRIM.h"
+
+1649971193 source:c:\users\ayoub\desktop\proj\eltmsg.c
+	"ELTMSGPRIM.h"
+	"LSTSMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1648934424 c:\users\ayoub\desktop\proj\eltmsgprim.h
+	"MSGSDD.h"
+
+1648934424 c:\users\ayoub\desktop\proj\msgsdd.h
+	"ELTMSG.h"
+
+1650297690 c:\users\ayoub\desktop\proj\eltmsg.h
+	"LSTSMSPRIM.h"
+
+1648744209 c:\users\ayoub\desktop\proj\lstsmsprim.h
+	"LSTSMSSDD.h"
+
+1648758824 c:\users\ayoub\desktop\proj\lstsmssdd.h
+	"LSTSMS.h"
+
+1648758824 c:\users\ayoub\desktop\proj\lstsms.h
+	"SMSPRIM.h"
+
+1649523977 c:\users\ayoub\desktop\proj\smsprim.h
+	"SMSSDD.h"
+
+1648738726 c:\users\ayoub\desktop\proj\smssdd.h
+	"ELTSMS.h"
+
+1648738725 c:\users\ayoub\desktop\proj\eltsms.h
+
+1649609699 source:c:\users\ayoub\desktop\proj\eltsms.c
+	"SMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"LSTSMSSDD.h"
+
+1650138497 source:c:\users\ayoub\desktop\proj\lstsms.c
+	"LSTSMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"SMSPRIM.h"
+	<string.h>
+
+1650494182 source:c:\users\ayoub\desktop\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SMSPRIM.h"
+	"LSTSMSPRIM.h"
+	"ELTMSGPRIM.h"
+	"LSTMSGPRIM.h"
+	"LSTPRIMCON.h"
+	"CONPRIM.h"
+	"PILEPRIM.h"
+
+1649970258 source:c:\users\ayoub\desktop\proj\lstmsg.c
+	"LSTMSGPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1648997529 c:\users\ayoub\desktop\proj\lstmsgprim.h
+	"LSTMSGSDD.h"
+
+1648938733 c:\users\ayoub\desktop\proj\lstmsgsdd.h
+	"LSTMSG.h"
+
+1648938734 c:\users\ayoub\desktop\proj\lstmsg.h
+	"ELTMSGPRIM.h"
+
+1649972305 source:c:\users\ayoub\desktop\proj\eltcon.c
+	"CONPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1648999674 c:\users\ayoub\desktop\proj\conprim.h
+	"ELTCONSDD.h"
+
+1648999674 c:\users\ayoub\desktop\proj\eltconsdd.h
+	"ELTCON.h"
+
+1648998752 c:\users\ayoub\desktop\proj\eltcon.h
+
+1653691103 source:c:\users\ayoub\desktop\proj\lstcon.c
+	"LSTCON.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1649000645 c:\users\ayoub\desktop\proj\lstcon.h
+	"CONPRIM.h"
+
+1649021530 c:\users\ayoub\desktop\proj\lstprimcon.h
+	"LSTCONSDD.h"
+
+1649000645 c:\users\ayoub\desktop\proj\lstconsdd.h
+	"LSTCON.h"
+
+1649972305 source:c:\users\ramim\onedrive\bureau\proj\eltcon.c
+	"CONPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1648999674 c:\users\ramim\onedrive\bureau\proj\conprim.h
+	"ELTCONSDD.h"
+
+1648999674 c:\users\ramim\onedrive\bureau\proj\eltconsdd.h
+	"ELTCON.h"
+
+1648998752 c:\users\ramim\onedrive\bureau\proj\eltcon.h
+
+1649971193 source:c:\users\ramim\onedrive\bureau\proj\eltmsg.c
+	"ELTMSGPRIM.h"
+	"LSTSMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1648934424 c:\users\ramim\onedrive\bureau\proj\eltmsgprim.h
+	"MSGSDD.h"
+
+1648934424 c:\users\ramim\onedrive\bureau\proj\msgsdd.h
+	"ELTMSG.h"
+
+1650297690 c:\users\ramim\onedrive\bureau\proj\eltmsg.h
+	"LSTSMSPRIM.h"
+
+1648744209 c:\users\ramim\onedrive\bureau\proj\lstsmsprim.h
+	"LSTSMSSDD.h"
+
+1648758824 c:\users\ramim\onedrive\bureau\proj\lstsmssdd.h
+	"LSTSMS.h"
+
+1648758824 c:\users\ramim\onedrive\bureau\proj\lstsms.h
+	"SMSPRIM.h"
+
+1649523977 c:\users\ramim\onedrive\bureau\proj\smsprim.h
+	"SMSSDD.h"
+
+1648738726 c:\users\ramim\onedrive\bureau\proj\smssdd.h
+	"ELTSMS.h"
+
+1648738725 c:\users\ramim\onedrive\bureau\proj\eltsms.h
+
+1649609699 source:c:\users\ramim\onedrive\bureau\proj\eltsms.c
+	"SMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"LSTSMSSDD.h"
+
+1649002028 source:c:\users\ramim\onedrive\bureau\proj\lstcon.c
+	"LSTCON.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1649000645 c:\users\ramim\onedrive\bureau\proj\lstcon.h
+	"CONPRIM.h"
+
+1649970258 source:c:\users\ramim\onedrive\bureau\proj\lstmsg.c
+	"LSTMSGPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1648997529 c:\users\ramim\onedrive\bureau\proj\lstmsgprim.h
+	"LSTMSGSDD.h"
+
+1648938733 c:\users\ramim\onedrive\bureau\proj\lstmsgsdd.h
+	"LSTMSG.h"
+
+1648938734 c:\users\ramim\onedrive\bureau\proj\lstmsg.h
+	"ELTMSGPRIM.h"
+
+1650138497 source:c:\users\ramim\onedrive\bureau\proj\lstsms.c
+	"LSTSMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"SMSPRIM.h"
+	<string.h>
+
+1650494759 source:c:\users\ramim\onedrive\bureau\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SMSPRIM.h"
+	"LSTSMSPRIM.h"
+	"ELTMSGPRIM.h"
+	"LSTMSGPRIM.h"
+	"LSTPRIMCON.h"
+	"CONPRIM.h"
+	"PILEPRIM.h"
+
+1649021530 c:\users\ramim\onedrive\bureau\proj\lstprimcon.h
+	"LSTCONSDD.h"
+
+1649000645 c:\users\ramim\onedrive\bureau\proj\lstconsdd.h
+	"LSTCON.h"
+
+1650298789 source:c:\users\ayoub\desktop\proj\pileptr.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"PILEPRIM.h"
+
+1650293485 c:\users\ayoub\desktop\proj\pileprim.h
+	"PILESDD.h"
+
+1650143897 c:\users\ayoub\desktop\proj\pilesdd.h
+	"PILEPTR.h"
+
+1650297760 c:\users\ayoub\desktop\proj\pileptr.h
+
+1649797954 source:c:\users\ramif\desktop\proj\eltcon.c
+	"CONPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1648999674 c:\users\ramif\desktop\proj\conprim.h
+	"ELTCONSDD.h"
+
+1648999674 c:\users\ramif\desktop\proj\eltconsdd.h
+	"ELTCON.h"
+
+1648998752 c:\users\ramif\desktop\proj\eltcon.h
+
+1650383465 source:c:\users\ramif\desktop\proj\eltmsg.c
+	"ELTMSGPRIM.h"
+	"LSTSMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1648934424 c:\users\ramif\desktop\proj\eltmsgprim.h
+	"MSGSDD.h"
+
+1648934424 c:\users\ramif\desktop\proj\msgsdd.h
+	"ELTMSG.h"
+
+1650297690 c:\users\ramif\desktop\proj\eltmsg.h
+	"LSTSMSPRIM.h"
+
+1648744209 c:\users\ramif\desktop\proj\lstsmsprim.h
+	"LSTSMSSDD.h"
+
+1648758824 c:\users\ramif\desktop\proj\lstsmssdd.h
+	"LSTSMS.h"
+
+1648758824 c:\users\ramif\desktop\proj\lstsms.h
+	"SMSPRIM.h"
+
+1649523977 c:\users\ramif\desktop\proj\smsprim.h
+	"SMSSDD.h"
+
+1648738726 c:\users\ramif\desktop\proj\smssdd.h
+	"ELTSMS.h"
+
+1648738725 c:\users\ramif\desktop\proj\eltsms.h
+
+1649609699 source:c:\users\ramif\desktop\proj\eltsms.c
+	"SMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"LSTSMSSDD.h"
+
+1650292542 source:c:\users\ramif\desktop\proj\lstmsg.c
+	"LSTMSGPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1648997529 c:\users\ramif\desktop\proj\lstmsgprim.h
+	"LSTMSGSDD.h"
+
+1648938733 c:\users\ramif\desktop\proj\lstmsgsdd.h
+	"LSTMSG.h"
+
+1648938734 c:\users\ramif\desktop\proj\lstmsg.h
+	"ELTMSGPRIM.h"
+
+1650138497 source:c:\users\ramif\desktop\proj\lstsms.c
+	"LSTSMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"SMSPRIM.h"
+	<string.h>
+
+1650384106 source:c:\users\ramif\desktop\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SMSPRIM.h"
+	"LSTSMSPRIM.h"
+	"ELTMSGPRIM.h"
+	"LSTMSGPRIM.h"
+	"LSTPRIMCON.h"
+	"CONPRIM.h"
+	"PILEPRIM.h"
+
+1649021530 c:\users\ramif\desktop\proj\lstprimcon.h
+	"LSTCONSDD.h"
+
+1649000645 c:\users\ramif\desktop\proj\lstconsdd.h
+	"LSTCON.h"
+
+1649000645 c:\users\ramif\desktop\proj\lstcon.h
+	"CONPRIM.h"
+
+1650293485 c:\users\ramif\desktop\proj\pileprim.h
+	"PILESDD.h"
+
+1650143897 c:\users\ramif\desktop\proj\pilesdd.h
+	"PILEPTR.h"
+
+1650297760 c:\users\ramif\desktop\proj\pileptr.h
+
+1650298789 source:c:\users\ramif\desktop\proj\pileptr.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"PILEPRIM.h"
+
+1650293485 c:\users\ramim\onedrive\bureau\proj\pileprim.h
+	"PILESDD.h"
+
+1650143897 c:\users\ramim\onedrive\bureau\proj\pilesdd.h
+	"PILEPTR.h"
+
+1650297760 c:\users\ramim\onedrive\bureau\proj\pileptr.h
+
+1650298789 source:c:\users\ramim\onedrive\bureau\proj\pileptr.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"PILEPRIM.h"
+
+1649972305 source:c:\users\ramim\onedrive\bureau\pro top off\eltcon.c
+	"CONPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1648999674 c:\users\ramim\onedrive\bureau\pro top off\conprim.h
+	"ELTCONSDD.h"
+
+1648999674 c:\users\ramim\onedrive\bureau\pro top off\eltconsdd.h
+	"ELTCON.h"
+
+1648998752 c:\users\ramim\onedrive\bureau\pro top off\eltcon.h
+
+1649971193 source:c:\users\ramim\onedrive\bureau\pro top off\eltmsg.c
+	"ELTMSGPRIM.h"
+	"LSTSMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1648934424 c:\users\ramim\onedrive\bureau\pro top off\eltmsgprim.h
+	"MSGSDD.h"
+
+1648934424 c:\users\ramim\onedrive\bureau\pro top off\msgsdd.h
+	"ELTMSG.h"
+
+1650297690 c:\users\ramim\onedrive\bureau\pro top off\eltmsg.h
+	"LSTSMSPRIM.h"
+
+1648744209 c:\users\ramim\onedrive\bureau\pro top off\lstsmsprim.h
+	"LSTSMSSDD.h"
+
+1648758824 c:\users\ramim\onedrive\bureau\pro top off\lstsmssdd.h
+	"LSTSMS.h"
+
+1648758824 c:\users\ramim\onedrive\bureau\pro top off\lstsms.h
+	"SMSPRIM.h"
+
+1649523977 c:\users\ramim\onedrive\bureau\pro top off\smsprim.h
+	"SMSSDD.h"
+
+1648738726 c:\users\ramim\onedrive\bureau\pro top off\smssdd.h
+	"ELTSMS.h"
+
+1648738725 c:\users\ramim\onedrive\bureau\pro top off\eltsms.h
+
+1649609699 source:c:\users\ramim\onedrive\bureau\pro top off\eltsms.c
+	"SMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"LSTSMSSDD.h"
+
+1649970258 source:c:\users\ramim\onedrive\bureau\pro top off\lstmsg.c
+	"LSTMSGPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1648997529 c:\users\ramim\onedrive\bureau\pro top off\lstmsgprim.h
+	"LSTMSGSDD.h"
+
+1648938733 c:\users\ramim\onedrive\bureau\pro top off\lstmsgsdd.h
+	"LSTMSG.h"
+
+1648938734 c:\users\ramim\onedrive\bureau\pro top off\lstmsg.h
+	"ELTMSGPRIM.h"
+
+1650138497 source:c:\users\ramim\onedrive\bureau\pro top off\lstsms.c
+	"LSTSMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"SMSPRIM.h"
+	<string.h>
+
+1650562085 source:c:\users\ramim\onedrive\bureau\pro top off\pileptr.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"PILEPRIM.h"
+
+1650561508 c:\users\ramim\onedrive\bureau\pro top off\pileprim.h
+	"PILESDD.h"
+
+1650143897 c:\users\ramim\onedrive\bureau\pro top off\pilesdd.h
+	"PILEPTR.h"
+
+1650297760 c:\users\ramim\onedrive\bureau\pro top off\pileptr.h
+
+1650562085 source:c:\users\ramim\onedrive\bureau\pro top off\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SMSPRIM.h"
+	"LSTSMSPRIM.h"
+	"ELTMSGPRIM.h"
+	"LSTMSGPRIM.h"
+	"LSTPRIMCON.h"
+	"CONPRIM.h"
+	"PILEPRIM.h"
+
+1649021530 c:\users\ramim\onedrive\bureau\pro top off\lstprimcon.h
+	"LSTCONSDD.h"
+
+1649000645 c:\users\ramim\onedrive\bureau\pro top off\lstconsdd.h
+	"LSTCON.h"
+
+1649000645 c:\users\ramim\onedrive\bureau\pro top off\lstcon.h
+	"CONPRIM.h"
+
+1650796268 source:c:\users\ayoub\desktop\pro top off\eltcon.c
+	"CONPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1648999674 c:\users\ayoub\desktop\pro top off\conprim.h
+	"ELTCONSDD.h"
+
+1648999674 c:\users\ayoub\desktop\pro top off\eltconsdd.h
+	"ELTCON.h"
+
+1648998752 c:\users\ayoub\desktop\pro top off\eltcon.h
+
+1650804998 source:c:\users\ayoub\desktop\pro top off\eltmsg.c
+	"ELTMSGPRIM.h"
+	"LSTSMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1648934424 c:\users\ayoub\desktop\pro top off\eltmsgprim.h
+	"MSGSDD.h"
+
+1648934424 c:\users\ayoub\desktop\pro top off\msgsdd.h
+	"ELTMSG.h"
+
+1650297690 c:\users\ayoub\desktop\pro top off\eltmsg.h
+	"LSTSMSPRIM.h"
+
+1648744209 c:\users\ayoub\desktop\pro top off\lstsmsprim.h
+	"LSTSMSSDD.h"
+
+1648758824 c:\users\ayoub\desktop\pro top off\lstsmssdd.h
+	"LSTSMS.h"
+
+1650798595 c:\users\ayoub\desktop\pro top off\lstsms.h
+	"SMSPRIM.h"
+
+1649523977 c:\users\ayoub\desktop\pro top off\smsprim.h
+	"SMSSDD.h"
+
+1648738726 c:\users\ayoub\desktop\pro top off\smssdd.h
+	"ELTSMS.h"
+
+1648738725 c:\users\ayoub\desktop\pro top off\eltsms.h
+
+1650718025 source:c:\users\ayoub\desktop\pro top off\eltsms.c
+	"SMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"LSTSMSSDD.h"
+
+1650751342 source:c:\users\ayoub\desktop\pro top off\lstmsg.c
+	"LSTMSGPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1648997529 c:\users\ayoub\desktop\pro top off\lstmsgprim.h
+	"LSTMSGSDD.h"
+
+1648938733 c:\users\ayoub\desktop\pro top off\lstmsgsdd.h
+	"LSTMSG.h"
+
+1648938734 c:\users\ayoub\desktop\pro top off\lstmsg.h
+	"ELTMSGPRIM.h"
+
+1650138497 source:c:\users\ayoub\desktop\pro top off\lstsms.c
+	"LSTSMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"SMSPRIM.h"
+	<string.h>
+
+1650829499 source:c:\users\ayoub\desktop\pro top off\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SMSPRIM.h"
+	"LSTSMSPRIM.h"
+	"ELTMSGPRIM.h"
+	"LSTMSGPRIM.h"
+	"LSTPRIMCON.h"
+	"CONPRIM.h"
+	"PILEPRIM.h"
+
+1649021530 c:\users\ayoub\desktop\pro top off\lstprimcon.h
+	"LSTCONSDD.h"
+
+1649000645 c:\users\ayoub\desktop\pro top off\lstconsdd.h
+	"LSTCON.h"
+
+1649000645 c:\users\ayoub\desktop\pro top off\lstcon.h
+	"CONPRIM.h"
+
+1650561508 c:\users\ayoub\desktop\pro top off\pileprim.h
+	"PILESDD.h"
+
+1650143897 c:\users\ayoub\desktop\pro top off\pilesdd.h
+	"PILEPTR.h"
+
+1650297760 c:\users\ayoub\desktop\pro top off\pileptr.h
+
+1650727805 source:c:\users\ayoub\desktop\pro top off\pileptr.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"PILEPRIM.h"
+
+1650796416 source:c:\users\ayoub\desktop\pro top off\lstcon.c
+	"LSTCON.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1650796268 source:c:\users\ayoub\desktop\nouveau dossier\projet\eltcon.c
+	"CONPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1648999674 c:\users\ayoub\desktop\nouveau dossier\projet\conprim.h
+	"ELTCONSDD.h"
+
+1648999674 c:\users\ayoub\desktop\nouveau dossier\projet\eltconsdd.h
+	"ELTCON.h"
+
+1648998752 c:\users\ayoub\desktop\nouveau dossier\projet\eltcon.h
+
+1650804998 source:c:\users\ayoub\desktop\nouveau dossier\projet\eltmsg.c
+	"ELTMSGPRIM.h"
+	"LSTSMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1648934424 c:\users\ayoub\desktop\nouveau dossier\projet\eltmsgprim.h
+	"MSGSDD.h"
+
+1648934424 c:\users\ayoub\desktop\nouveau dossier\projet\msgsdd.h
+	"ELTMSG.h"
+
+1650297690 c:\users\ayoub\desktop\nouveau dossier\projet\eltmsg.h
+	"LSTSMSPRIM.h"
+
+1648744209 c:\users\ayoub\desktop\nouveau dossier\projet\lstsmsprim.h
+	"LSTSMSSDD.h"
+
+1648758824 c:\users\ayoub\desktop\nouveau dossier\projet\lstsmssdd.h
+	"LSTSMS.h"
+
+1650798595 c:\users\ayoub\desktop\nouveau dossier\projet\lstsms.h
+	"SMSPRIM.h"
+
+1649523977 c:\users\ayoub\desktop\nouveau dossier\projet\smsprim.h
+	"SMSSDD.h"
+
+1648738726 c:\users\ayoub\desktop\nouveau dossier\projet\smssdd.h
+	"ELTSMS.h"
+
+1648738725 c:\users\ayoub\desktop\nouveau dossier\projet\eltsms.h
+
+1650718025 source:c:\users\ayoub\desktop\nouveau dossier\projet\eltsms.c
+	"SMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"LSTSMSSDD.h"
+
+1650796416 source:c:\users\ayoub\desktop\nouveau dossier\projet\lstcon.c
+	"LSTCON.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1649000645 c:\users\ayoub\desktop\nouveau dossier\projet\lstcon.h
+	"CONPRIM.h"
+
+1650751342 source:c:\users\ayoub\desktop\nouveau dossier\projet\lstmsg.c
+	"LSTMSGPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1648997529 c:\users\ayoub\desktop\nouveau dossier\projet\lstmsgprim.h
+	"LSTMSGSDD.h"
+
+1648938733 c:\users\ayoub\desktop\nouveau dossier\projet\lstmsgsdd.h
+	"LSTMSG.h"
+
+1648938734 c:\users\ayoub\desktop\nouveau dossier\projet\lstmsg.h
+	"ELTMSGPRIM.h"
+
+1650138497 source:c:\users\ayoub\desktop\nouveau dossier\projet\lstsms.c
+	"LSTSMSPRIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"SMSPRIM.h"
+	<string.h>
+
+1650830614 source:c:\users\ayoub\desktop\nouveau dossier\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SMSPRIM.h"
+	"LSTSMSPRIM.h"
+	"ELTMSGPRIM.h"
+	"LSTMSGPRIM.h"
+	"LSTPRIMCON.h"
+	"CONPRIM.h"
+	"PILEPRIM.h"
+
+1649021530 c:\users\ayoub\desktop\nouveau dossier\projet\lstprimcon.h
+	"LSTCONSDD.h"
+
+1649000645 c:\users\ayoub\desktop\nouveau dossier\projet\lstconsdd.h
+	"LSTCON.h"
+
+1650561508 c:\users\ayoub\desktop\nouveau dossier\projet\pileprim.h
+	"PILESDD.h"
+
+1650143897 c:\users\ayoub\desktop\nouveau dossier\projet\pilesdd.h
+	"PILEPTR.h"
+
+1650297760 c:\users\ayoub\desktop\nouveau dossier\projet\pileptr.h
+
+1650727805 source:c:\users\ayoub\desktop\nouveau dossier\projet\pileptr.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"PILEPRIM.h"
+
